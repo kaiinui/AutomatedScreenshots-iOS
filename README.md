@@ -26,3 +26,8 @@ They should be achieve in `XCTest`.
 
 To do this in many devices, simply write shell for it. To perform test, use `xcodebuild`.
 
+Concerns
+---
+
+- How to acheive taking AppStore screenshots?
+  * Leveraging AutoLayout, it is able to render screenshots with texts.
