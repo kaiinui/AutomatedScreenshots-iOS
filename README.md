@@ -26,6 +26,14 @@ They should be achieve in `XCTest`.
 
 To do this in many devices, simply write shell for it. To perform test, use `xcodebuild`.
 
+Taking captures for App Store
+---
+
+Layout with Auto Layout and take screen captures in all device sizes.
+Also you can i18n.
+
+This is the scalable way to take screen captures.
+
 Concerns
 ---
 
